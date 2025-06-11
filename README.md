@@ -135,3 +135,5 @@ Use these commands to efficiently check balances and manage your Solana wallets:
 ## License
 
 This project is licensed under the [MIT License](/LICENSE). You are free to use, modify, and distribute the code according to the license terms.
+
+Update:  Wednesday 11 June 2025
